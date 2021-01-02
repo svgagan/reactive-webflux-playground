@@ -1,4 +1,4 @@
-package io.codeclan;
+package io.codeclan.playground;
 
 import org.junit.jupiter.api.Test;
 import reactor.core.publisher.Flux;

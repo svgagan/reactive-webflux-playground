@@ -1,4 +1,4 @@
-package io.codeclan;
+package io.codeclan.playground;
 
 public class CustomException extends Throwable {
 
